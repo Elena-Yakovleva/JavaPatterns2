@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/Elena-Yakovleva/JavaPatterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/Elena-Yakovleva/JavaPatterns/actions/workflows/gradle.yml)
+
 
 ### Домашнее задание к занятию «2.3. Patterns»
 
